@@ -1,0 +1,128 @@
+Solutia 1:
+Cost: 5.166666666666667
+Timp: 0.017999887466430664
+
+Node 1:
+Numar noduri in memorie: 0
+
+mmmmmml
+aagbdcl
+zdhfhll
+ttttttl
+Am eliminat liniile 1,4
+
+Node 2:
+Numar noduri in memorie: 216
+
+aagbdcl
+zdhfhll
+Am eliminat coloanele 1,3,7
+
+Node 3:
+Numar noduri in memorie: 532
+
+abdc
+dfhl
+-------------------------------------
+Solutia 2:
+Cost: 6.0
+Timp: 0.019999980926513672
+
+Node 1:
+Numar noduri in memorie: 0
+
+mmmmmml
+aagbdcl
+zdhfhll
+ttttttl
+Am eliminat coloanele 7
+
+Node 2:
+Numar noduri in memorie: 140
+
+mmmmmm
+aagbdc
+zdhfhl
+tttttt
+Am eliminat liniile 1,4
+
+Node 3:
+Numar noduri in memorie: 344
+
+aagbdc
+zdhfhl
+Am eliminat coloanele 1,3
+
+Node 4:
+Numar noduri in memorie: 740
+
+abdc
+dfhl
+-------------------------------------
+Solutia 3:
+Cost: 6.5
+Timp: 0.029999971389770508
+
+Node 1:
+Numar noduri in memorie: 0
+
+mmmmmml
+aagbdcl
+zdhfhll
+ttttttl
+Am eliminat liniile 1,4
+
+Node 2:
+Numar noduri in memorie: 216
+
+aagbdcl
+zdhfhll
+Am eliminat coloanele 7
+
+Node 3:
+Numar noduri in memorie: 408
+
+aagbdc
+zdhfhl
+Am eliminat coloanele 1,3
+
+Node 4:
+Numar noduri in memorie: 1064
+
+abdc
+dfhl
+-------------------------------------
+Solutia 4:
+Cost: 6.5
+Timp: 0.029999971389770508
+
+Node 1:
+Numar noduri in memorie: 0
+
+mmmmmml
+aagbdcl
+zdhfhll
+ttttttl
+Am eliminat liniile 1,4
+
+Node 2:
+Numar noduri in memorie: 216
+
+aagbdcl
+zdhfhll
+Am eliminat coloanele 1,3
+
+Node 3:
+Numar noduri in memorie: 500
+
+abdcl
+dfhll
+Am eliminat coloanele 5
+
+Node 4:
+Numar noduri in memorie: 1080
+
+abdc
+dfhl
+-------------------------------------
+Noduri calculate: 1098

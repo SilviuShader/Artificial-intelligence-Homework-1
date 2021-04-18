@@ -1,0 +1,179 @@
+Solutia 1:
+Cost: 21.0
+Timp: 0.004000186920166016
+
+Node 1:
+Numar noduri in memorie: 0
+
+mmmmmml
+aagbdcl
+zdhfhll
+ttttttl
+Am eliminat liniile 1
+
+Node 2:
+Numar noduri in memorie: 1
+
+aagbdcl
+zdhfhll
+ttttttl
+Am eliminat liniile 3
+
+Node 3:
+Numar noduri in memorie: 2
+
+aagbdcl
+zdhfhll
+Am eliminat coloanele 1
+
+Node 4:
+Numar noduri in memorie: 3
+
+agbdcl
+dhfhll
+Am eliminat coloanele 2
+
+Node 5:
+Numar noduri in memorie: 4
+
+abdcl
+dfhll
+Am eliminat coloanele 5
+
+Node 6:
+Numar noduri in memorie: 5
+
+abdc
+dfhl
+-------------------------------------
+Solutia 2:
+Cost: 19.0
+Timp: 0.004000186920166016
+
+Node 1:
+Numar noduri in memorie: 0
+
+mmmmmml
+aagbdcl
+zdhfhll
+ttttttl
+Am eliminat liniile 1
+
+Node 2:
+Numar noduri in memorie: 1
+
+aagbdcl
+zdhfhll
+ttttttl
+Am eliminat liniile 3
+
+Node 3:
+Numar noduri in memorie: 2
+
+aagbdcl
+zdhfhll
+Am eliminat coloanele 1
+
+Node 4:
+Numar noduri in memorie: 3
+
+agbdcl
+dhfhll
+Am eliminat coloanele 2,6
+
+Node 5:
+Numar noduri in memorie: 4
+
+abdc
+dfhl
+-------------------------------------
+Solutia 3:
+Cost: 21.0
+Timp: 0.004000186920166016
+
+Node 1:
+Numar noduri in memorie: 0
+
+mmmmmml
+aagbdcl
+zdhfhll
+ttttttl
+Am eliminat liniile 1
+
+Node 2:
+Numar noduri in memorie: 1
+
+aagbdcl
+zdhfhll
+ttttttl
+Am eliminat liniile 3
+
+Node 3:
+Numar noduri in memorie: 2
+
+aagbdcl
+zdhfhll
+Am eliminat coloanele 1
+
+Node 4:
+Numar noduri in memorie: 3
+
+agbdcl
+dhfhll
+Am eliminat coloanele 6
+
+Node 5:
+Numar noduri in memorie: 4
+
+agbdc
+dhfhl
+Am eliminat coloanele 2
+
+Node 6:
+Numar noduri in memorie: 5
+
+abdc
+dfhl
+-------------------------------------
+Solutia 4:
+Cost: 17.0
+Timp: 0.004000186920166016
+
+Node 1:
+Numar noduri in memorie: 0
+
+mmmmmml
+aagbdcl
+zdhfhll
+ttttttl
+Am eliminat liniile 1
+
+Node 2:
+Numar noduri in memorie: 1
+
+aagbdcl
+zdhfhll
+ttttttl
+Am eliminat liniile 3
+
+Node 3:
+Numar noduri in memorie: 2
+
+aagbdcl
+zdhfhll
+Am eliminat coloanele 1,3
+
+Node 4:
+Numar noduri in memorie: 3
+
+abdcl
+dfhll
+Am eliminat coloanele 5
+
+Node 5:
+Numar noduri in memorie: 4
+
+abdc
+dfhl
+-------------------------------------
+Noduri calculate: 209

@@ -1,0 +1,27 @@
+Solutia 1:
+Cost: 5.166666666666667
+Timp: 0.04600214958190918
+
+Node 1:
+Numar noduri in memorie: 0
+
+mmmmmml
+aagbdcl
+zdhfhll
+ttttttl
+Am eliminat liniile 1,4
+
+Node 2:
+Numar noduri in memorie: 153
+
+aagbdcl
+zdhfhll
+Am eliminat coloanele 1,3,7
+
+Node 3:
+Numar noduri in memorie: 289
+
+abdc
+dfhl
+-------------------------------------
+Noduri calculate: 475
